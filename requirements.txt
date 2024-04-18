@@ -1,0 +1,5 @@
+pytorch
+numpy
+pandas 
+tqdm
+Pillow
